@@ -1,0 +1,88 @@
+1. Top 10 ministries with maximum number of bills presented
+ANS:
+FINANCE	461
+HOME AFFAIRS	344
+RAILWAYS	274
+LAW AND JUSTICE	73
+AGRICULTURE	62
+COMMERCE AND INDUSTRY	62
+HUMAN RESOURCE  DEVELOPMENT	49
+HEALTH AND FAMILY WELFARE	45
+PARLIAMENTARY  AFFAIRS	44
+LABOUR	40
+
+2. Average time of passing the bill from Lok sabha to Rajya sabha
+ANS:
+Average	45.62543353
+Consideration: For few of the bills Passing in Lok sabha date is later date then Passing Rajya sabha. So for calculating average those bills have been ignored.
+For e.g: 60	2013	The Jharkhand Appropriation Bill, 2013	FINANCE	15-03-2013	3/15/2013	15-03-2013	3/15/2013	21-03-2012	3/21/2012	-359	0	22-03-2013	3/22/2013
+
+3. Average time of passing the bill from Lok Sabha to finally Assented
+ANS:
+Average	45.62543353
+Consideration: For few of the bills Passing in Lok sabha date is later date then Date of Assent. So for calculating average those bills have been ignored.
+For e.g:11	2012	The Finance Bill, 2012.	FINANCE	16-03-2012	3/16/2012	8/5/2012	8/5/2012	NA	NA	NA	0	28-05-2012	5/28/2012	-69
+
+4. Year wise analysis of bills - Which year How many bills, How many pending, How many assented, which year has got maximum success rate
+ANS:
+Year wise analysis of bills - Which year How many bills, How many pending, How many assented, which year has got maximum success rate
+1957, 1958, 1959, 1984 has got maximum rate considering passed, passed and assented as success criteria with success rate of 100%.
+
+Year	Introduced	Assented	Passed         	% of Passed	Pending
+1955	33		31	93.94%	
+1956	62		60	96.77%	
+1957	59		59	100.00%	
+1958	60		60	100.00%	
+1959	57		57	100.00%	
+1960	50		48	96.00%	
+1961	53		52	98.11%	
+1962	68		66	97.06%	
+1963	44		42	95.45%	
+1964	48		44	91.67%	
+1965	59		47	79.66%	
+1966	57		42	73.68%	
+1967	18		16	88.89%	
+1968	58		54	93.10%	
+1969	48		43	89.58%	
+1970	38		24	63.16%	
+1971	32		26	81.25%	
+1976	38		35	92.11%	
+1977	62		54	87.10%	
+1978	59		41	69.49%	
+1979	40	1	22	55.00%	
+1980	84		80	95.24%	
+1981	58		55	94.83%	
+1982	44		41	93.18%	
+1983	46		43	93.48%	
+1984	46		46	100.00%	
+1985	81		80	98.77%	
+1986	58		54	93.10%	
+1987	49		48	97.96%	
+1988	48		42	87.50%	
+1989	42		39	92.86%	
+1990	50		30	60.00%	
+1991	62		55	88.71%	
+1992	63		55	87.30%	
+1993	60		54	90.00%	
+1994	40		34	85.00%	
+1995	48		33	68.75%	
+1996	43		33	76.74%	
+1997	37		23	62.16%	
+1998	58	1	40	68.97%	
+1999	41		36	87.80%	
+2000	62		53	85.48%	
+2001	48		39	81.25%	
+2002	58		47	81.03%	
+2003	41		17	41.46%	
+2004	33	1	30	90.91%	
+2005	50	2	43	86.00%	
+2006	43	6	25	58.14%	
+2007	43	13	16	37.21%	
+2008	40	25	4	10.00%	
+2009	81	39	32	39.51%	4
+2010	89	33	43	48.31%	12
+2011	65	12	28	43.08%	24
+2012	48	10	14	29.17%	23
+2013	26	8	12	46.15%	6
+
+
